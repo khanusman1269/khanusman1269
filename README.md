@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔹 **4+ years** experience in **Android (Kotlin) & Flutter**  <br>- 🔹 Passionate about **UI/UX, performance optimization, and end-to-end app development**  <br>- 🔹 Built and led projects like **Ersaal (messaging app)** and **Wakeel Online**  <br>- 🔹 Currently working on **OCR, PDF tools, and document management apps**  <br>- 🔹 Running a **3-person dev company** delivering full-stack solutions  <br>
+- 🔹 **5 years** experience in **Android (Kotlin) & Flutter**  <br>- 🔹 Passionate about **UI/UX, performance optimization, and end-to-end app development**  <br>- 🔹 Built and led projects like **Ersaal (messaging app)** and **Wakeel Online**  <br>- 🔹 Currently working on **OCR, PDF tools, and document management apps**  <br>- 🔹 Running a **3-person dev company** delivering full-stack solutions  <br>
 
 
 ## 🌐 Socials:
